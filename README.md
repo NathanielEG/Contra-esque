@@ -2,6 +2,9 @@
 A two-player survival 2D-shooter with sprite animation developed by Nathaniel Gonzalez &amp; Nam Pham
 
 
+game.py - main driver file
+gamebox.py - library file
+
 
 Pygame LICENCE:
 
